@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### My name's Diana Jimenez Mora
 
-Welcome to my GitHub! I'm Diana, I was an English Teacher, but now I work as a Test Automation Engineer. I've learned to code through self-study and a Bootcamp at Edutecno, Talento Digital para Chile. I'm always looking for new tutorials and documentation. 
+Welcome to my GitHub! I'm Diana, I was an English Teacher, but now I work as a Test Automation Engineer. I've learned to code through self-study and at a FullStack Java Bootcamp thanks to the scholarship granted by Talento Digital Chile. I'm always looking for new tutorials and documentation. 
 
 ### What I am up to
 <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*K2WLMTExLyida7OR.gif" width="500" height="320" /> 
