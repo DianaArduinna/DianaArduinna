@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm Diana, I was an English Teacher, but now I work as a T
 <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*K2WLMTExLyida7OR.gif" width="500" height="320" /> 
 
 - 🔭 I’m currently working on Test Automation.
-- 🌱 I’m currently learning Java, Javascript, Python, Selenium, Cucumber, Flutter.
+- 🌱 I’m currently learning Java, Javascript, Python, Selenium, Cucumber.
 - 👩‍💻 I'm working on a podcast about learning English in IT for Spanish Speakers.
 - 💬 Ask me about language, language processing, Java.
 - 🌴 Fun facts
