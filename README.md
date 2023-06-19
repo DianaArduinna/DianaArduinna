@@ -8,7 +8,6 @@ Welcome to my GitHub! I'm Diana, I was an English Teacher, but now I work as a T
 
 - 🔭 I’m currently working on Test Automation.
 - 🌱 I’m currently learning Java, Javascript, Python, Selenium, Cucumber.
-- 👩‍💻 I'm working on a podcast about learning English in IT for Spanish Speakers.
 - 💬 Ask me about language, language processing, Java.
 - 🌴 Fun facts
   - I used to practice Swordfights and Tae Kwon Do. I still love swords.
