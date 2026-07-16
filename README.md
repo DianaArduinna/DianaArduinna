@@ -3,7 +3,7 @@
 ### **Semi-Senior QA Automation Engineer (SDET)**
 📍 Santiago, Chile | 📧 [di.jimenez.mora@gmail.com](mailto:di.jimenez.mora@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/dianajimenezmora)
 
-I am a QA Automation Engineer with **4+ years of experience** specializing in building robust, scalable testing architectures. I have a core focus on **Playwright**, **TypeScript**, and **Mobile Automation**, with proven expertise in visual regression testing (VRT), component-level testing, and end-to-end strategies.
+I am a QA Automation Engineer with **5+ years of experience** specializing in building robust, scalable testing architectures. I have a core focus on **Playwright**, **TypeScript**, and **Mobile Automation**, with proven expertise in visual regression testing (VRT), component-level testing, and end-to-end strategies.
 
 My background includes managing test suites in **monorepo environments (NX/Lerna)**, integrating automated gates into **CI/CD pipelines (GitLab/GitHub Actions)**, and leveraging AI-assisted tools (Cursor, Claude) to accelerate test generation and refactoring.
 
