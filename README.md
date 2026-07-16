@@ -1,29 +1,38 @@
-### Hi there 👋 
+# Hi there! I'm Diana Jimenez Mora 👋
 
-I'm Diana Jimenez Mora, a Test Automation Engineer with a passion for quality assurance and creating seamless software experiences. Previously, I was an English Teacher, but my journey led me to transition into the world of tech.
+### **Semi-Senior QA Automation Engineer (SDET)**
+📍 Santiago, Chile | 📧 [di.jimenez.mora@gmail.com](mailto:di.jimenez.mora@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/dianajimenezmora)
 
-I honed my coding skills through self-study and at a FullStack Java Bootcamp, where I was fortunate to receive a scholarship from Talento Digital Chile. This experience solidified my love for coding and technology.
+I am a QA Automation Engineer with **4+ years of experience** specializing in building robust, scalable testing architectures. I have a core focus on **Playwright**, **TypeScript**, and **Mobile Automation**, with proven expertise in visual regression testing (VRT), component-level testing, and end-to-end strategies.
 
-With a background in education and now in tech, I bring a unique perspective to my work. I'm adept at REST API and mobile testing, having spent 2 enriching years at Globant, where I continue learning and expanding my skills.
+My background includes managing test suites in **monorepo environments (NX/Lerna)**, integrating automated gates into **CI/CD pipelines (GitLab/GitHub Actions)**, and leveraging AI-assisted tools (Cursor, Claude) to accelerate test generation and refactoring.
 
-I'm a dedicated learner, constantly seeking out new tutorials and documentation to stay up-to-date with the latest trends in the field. Quality assurance is my mantra, and I'm enthusiastic about creating efficient and robust test frameworks.
+---
 
-Let's connect, collaborate, and bring exceptional software to life! 🚀"
+### 🛠️ Technical Skills
 
-### What I am up to
-<img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*K2WLMTExLyida7OR.gif" width="500" height="320" /> 
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Core Automation** | Playwright, Cypress, WebdriverIO, Appium, Screenplay Pattern |
+| **Languages** | TypeScript, JavaScript, Java, SQL, HTML5/CSS3 |
+| **Advanced Testing** | Visual Regression (VRT), Component Testing, API Testing (REST), Mobile Cross-Platform |
+| **CI/CD & DevOps** | GitLab CI/CD, GitHub Actions, Cypress Cloud, NX, Lerna |
+| **AI Productivity** | Cursor IDE, Claude Sonnet, Github Copilot |
 
-- 🔭 I’m currently working on Test Automation.
-- 🌱 I’m currently improving my skills in Java, Javascript, Selenium, Cucumber, and Rest Assured.
-- 💬 Ask me about language, language processing, Java, and The Lord of the Rings.
-- 📫 How to reach me: 
-  - <img alt="Diana's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="https://www.linkedin.com/in/dianajimenezmora"> Diana Jimenez </a>
+---
+
+### 🔭 What I'm currently working on
+
+* 🏦 **Banreservas Project:** Designing and implementing mobile automated test suites using **Appium** and **WebdriverIO (WDIO)**.
+* 🏨 **Globant (Previous Projects):** Successfully architected Visual Regression (VRT) strategies for React Design Systems (Autodesk) and implemented Component Testing frameworks with Cypress/GitLab CI (Hilton).
+* 🧠 **Constant Learning:** Fine-tuning CI/CD workflows and experimenting with advanced AI-assisted testing strategies to optimize the Software Development Life Cycle (SDLC).
+* 💬 **Ask me about:** QA Automation architectures, transitioning from non-tech (I used to be an English Teacher!), and why *The Lord of the Rings* is the greatest trilogy ever written. 🧙‍♂️
+
+---
 
 ### 📈 My GitHub Stats
 
-[![DianaArduinna's github stats](https://github-readme-stats.vercel.app/api?username=DianaArduinna&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DianaArduinna&theme=tokyonight)](https://git.io/streak-stats)
 
 
-
-
-(Animation by <a href="https://dribbble.com/daniserpa"> Daniela Serpa </a>)
